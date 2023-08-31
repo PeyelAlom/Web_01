@@ -2,6 +2,7 @@
 .wrapper{
     width:960px;
     margin:50 auto;
+    margin:0 auto;
 }
 .box img{
     width:300px;
@@ -37,5 +38,4 @@ box p{
     background:#000;
     color:#fff;
 }
-
 
